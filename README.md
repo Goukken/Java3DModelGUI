@@ -11,5 +11,5 @@ Certifique-se de ter instalado o seguinte software:
 
 ## Contribuindo
 
-Lucas H.
-Henrique
+- Lucas 
+- Henrique
